@@ -20,6 +20,6 @@ svglib==1.5.1  # debrief
 Markdown==3.4.4  # training
 dnspython==2.4.2
 asyncssh==2.14.1
-aioftp~=0.20.0
+aioftp~=0.26.3
 packaging==23.2
 pillow>=10.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
