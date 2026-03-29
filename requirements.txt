@@ -23,3 +23,4 @@ asyncssh==2.14.1
 aioftp~=0.20.0
 packaging==23.2
 pillow>=10.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
